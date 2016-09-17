@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: Legend of Everfree (Main Title)
+Original Script: My Little Pony Equestria Girls: Legend of Everfree (Original Motion Picture Soundtrack) - EP
+Original Timing: BronyDee
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Chorus English,Roboto,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Chorus Mandarin,思源黑体 Bold,90,&H0044DE4C,&H00565E6D,&H00115813,&H37000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.20,0:00:19.12,Chorus English,,0,0,0,,{\kf13}Will{\kf0} {\kf12}you{\kf5} {\kf15}be{\kf5} {\kf43}lost{\kf11} {\kf36}by{\kf8} {\kf48}time{\kf7} {\kf21}or{\kf5} {\kf14}be{\kf11} {\kf17}part{\kf4} {\kf16}of {\kf27}his{\kf38}to{\kf36}ry?
+Dialogue: 0,0:00:19.17,0:00:22.96,Chorus English,,0,0,0,,{\kf15}Will{\kf0} {\kf21}your{\kf8} {\kf27}sto{\kf22}ry{\kf4} {\kf36}be{\kf13} {\kf45}told{\kf0} {\kf24}or{\kf7} {\kf20}re{\kf20}main{\kf5} {\kf6}a{\kf9} {\kf22}mys{\kf35}te{\kf40}ry?
+Dialogue: 0,0:00:23.04,0:00:26.75,Chorus English,,0,0,0,,{\kf25}Will{\kf0} {\kf12}they{\kf6} {\kf44}sing{\kf9} {\kf27}your{\kf15} {\kf43}song{\kf10}, {\kf26}tel{\kf20}ling{\kf5} {\kf22}all{\kf0} {\kf10}that{\kf3} {\kf28}you{\kf0} {\kf22}have{\kf12} {\kf32}done?
+Dialogue: 0,0:00:26.88,0:00:30.88,Chorus English,,0,0,0,,{\kf24}Time{\kf6} {\kf15}to{\kf8} {\kf37}make{\kf10} {\kf39}your{\kf7} {\kf40}choice{\kf9}, {\kf23}on{\kf28}ly{\kf0} {\kf13}you{\kf0} {\kf16}can{\kf6} {\kf20}be{\kf7} {\kf22}the{\kf8} {\kf62}one
+Dialogue: 0,0:00:31.24,0:00:34.47,Chorus English,,0,0,0,,{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 0,0:00:34.64,0:00:38.80,Chorus English,,0,0,0,,{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf13}gend{\kf13} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf33}(Hey)
+Dialogue: 0,0:00:39.00,0:00:42.23,Chorus English,,0,0,0,,{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 0,0:00:42.35,0:00:47.77,Chorus English,,0,0,0,,{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf13}gend{\kf13} {\kf31}of{\kf15} {\kf50}E{\kf51}ver{\kf198}free
+Dialogue: 0,0:00:46.25,0:00:48.64,Chorus English,,0,0,0,,{\kf21}Hey{\kf75} {\kf26}Hey{\kf67} {\kf30}Hey{\kf20}
+Dialogue: 0,0:00:49.11,0:00:52.99,Chorus English,,0,0,0,,{\kf14}Will{\kf0} {\kf14}you{\kf0} {\kf11}do{\kf5} {\kf55}some{\kf34}thing{\kf16} {\kf37}great{\kf13} {\kf14}with{\kf9} {\kf14}the{\kf5} {\kf25}time{\kf3} {\kf11}that{\kf3} {\kf23}you{\kf2} {\kf37}have {\kf43}here?
+Dialogue: 0,0:00:53.02,0:00:56.78,Chorus English,,0,0,0,,{\kf16}Will{\kf10} {\kf18}you{\kf6} {\kf36}make{\kf11} {\kf40}your{\kf10} {\kf37}mark{\kf12}, {\kf21}will{\kf3} {\kf18}you {\kf29}con{\kf11}quer{\kf2} {\kf24}what{\kf0} {\kf31}you{\kf6} {\kf35}fear?
+Dialogue: 0,0:00:56.89,0:01:00.54,Chorus English,,0,0,0,,{\kf11}And{\kf0} {\kf12}when{\kf4} {\kf18}you{\kf7} {\kf38}go{\kf8} {\kf34}back{\kf13} {\kf41}home{\kf8}, {\kf25}e{\kf21}very{\kf21}bo{\kf18}dy{\kf0} {\kf33}there{\kf0} {\kf23}will{\kf4} {\kf26}see
+Dialogue: 0,0:01:00.79,0:01:05.83,Chorus English,,0,0,0,,{\kf21}You{\kf4} {\kf20}were{\kf2} {\kf46}part{\kf4} {\kf20}of{\kf4} {\kf22}the{\kf2} {\kf25}Le{\kf17}gend{\kf6} {\kf39}of{\kf7} {\kf50}E{\kf48}ver{\kf167}free
+Dialogue: 0,0:01:06.05,0:01:09.38,Chorus English,,0,0,0,,{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 0,0:01:09.46,0:01:13.67,Chorus English,,0,0,0,,{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf13}gend{\kf13} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf33}(Hey)
+Dialogue: 0,0:01:13.84,0:01:17.05,Chorus English,,0,0,0,,{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 0,0:01:17.20,0:01:21.47,Chorus English,,0,0,0,,{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf19}gend{\kf7} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf39}(Hey)
+Dialogue: 0,0:01:21.97,0:01:25.52,Chorus English,,0,0,0,,{\kf22}Will{\kf0} {\kf26}you{\kf9} {\kf39}find{\kf12} {\kf38}your{\kf7} {\kf52}grea{\kf45}test {\kf51}glo{\kf54}ry?
+Dialogue: 0,0:01:25.89,0:01:29.27,Chorus English,,0,0,0,,{\kf22}Will{\kf0} {\kf26}you{\kf9} {\kf39}be{\kf4} {\kf41}a{\kf8} {\kf47}fal{\kf46}ling{\kf6} {\kf90}star?
+Dialogue: 0,0:01:29.81,0:01:33.40,Chorus English,,0,0,0,,{\kf22}Here{\kf3} {\kf23}to{\kf0} {\kf40}learn{\kf7} {\kf37}what{\kf12} {\kf44}na{\kf49}ture {\kf47}tea{\kf75}ches
+Dialogue: 0,0:01:33.69,0:01:36.49,Chorus English,,0,0,0,,{\kf22}Here{\kf3} {\kf23}to{\kf0} {\kf40}learn{\kf7} {\kf42}more{\kf7} {\kf38}who{\kf13} {\kf31}you{\kf14} {\kf40}are
+Dialogue: 0,0:01:36.56,0:01:40.28,Chorus English,,0,0,0,,{\kf13}Will{\kf0} {\kf12}you{\kf5} {\kf15}be{\kf5} {\kf43}lost{\kf2} {\kf43}by{\kf6} {\kf47}time{\kf3} {\kf21}or{\kf4} {\kf18}be{\kf5} {\kf24}part{\kf0} {\kf12}of{\kf3} {\kf28}his{\kf35}to{\kf28}ry?
+Dialogue: 0,0:01:40.45,0:01:44.16,Chorus English,,0,0,0,,{\kf15}Will{\kf0} {\kf21}your{\kf8} {\kf27}sto{\kf22}ry{\kf4} {\kf36}be{\kf13} {\kf45}told{\kf0} {\kf24}or{\kf7} {\kf20}re{\kf20}main{\kf5} {\kf6}a{\kf9} {\kf22}mys{\kf35}te{\kf40}ry?
+Dialogue: 0,0:01:44.33,0:01:48.08,Chorus English,,0,0,0,,{\kf11}And{\kf0} {\kf12}when{\kf4} {\kf18}you{\kf7} {\kf38}go{\kf8} {\kf34}back{\kf13} {\kf41}home{\kf8}, {\kf25}e{\kf21}very{\kf21}bo{\kf18}dy{\kf0} {\kf33}there{\kf0} {\kf23}will{\kf4} {\kf26}see
+Dialogue: 0,0:01:48.21,0:01:53.30,Chorus English,,0,0,0,,{\kf21}You{\kf4} {\kf20}were{\kf2} {\kf46}part{\kf4} {\kf20}of{\kf4} {\kf22}the{\kf2} {\kf25}Le{\kf17}gend{\kf6} {\kf39}of{\kf7} {\kf50}E{\kf48}ver{\kf167}free
+Dialogue: 0,0:01:53.50,0:01:56.72,Chorus English,,0,0,0,,{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 0,0:01:56.84,0:02:01.01,Chorus English,,0,0,0,,{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf30}Le{\kf22}gend{\kf0} {\kf31}of{\kf15} {\kf50}E{\kf38}ver{\kf55}free{\kf2} {\kf29}(Hey)
+Dialogue: 0,0:02:01.24,0:02:04.47,Chorus English,,0,0,0,,{\kf95}Oh{\kf0}-{\kf61}oh{\kf0}-{\kf64}oh{\kf0}-{\kf61}oh{\kf0}-{\kf42}whoa
+Dialogue: 0,0:02:04.60,0:02:09.48,Chorus English,,0,0,0,,{\kf27}As{\kf0} {\kf12}you{\kf12} {\kf44}join{\kf6} {\kf15}in{\kf8} {\kf17}the{\kf4} {\kf26}Le{\kf25}gend{\kf1} {\kf31}of{\kf15} {\kf50}E{\kf50}ver{\kf145}free
+Dialogue: 0,0:02:09.95,0:02:10.48,Chorus English,,0,0,0,,{\kf27}Hey{\kf26}
