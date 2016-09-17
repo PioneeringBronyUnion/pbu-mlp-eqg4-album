@@ -1,0 +1,69 @@
+﻿[Script Info]
+Title: Hope Shines Eternal
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Original Script: My Little Pony Equestria Girls: Legend of Everfree (Original Motion Picture Soundtrack) - EP
+Original Timing: BronyDee
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,思源黑体 Bold,90,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,50,1
+Style: Applejack English,Roboto,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Applejack Mandarin,思源黑体 Bold,90,&H0053B4FF,&H00363655,&H000D54E6,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Chorus English,Roboto,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Chorus Mandarin,思源黑体 Bold,90,&H0044DE4C,&H00565E6D,&H00115813,&H37000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Effects (Top-Center Aligned),,0,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0,0,0,1
+Style: English (Handwriting),Lucida Handwriting,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0,0,10,1
+Style: English Subtitle,Roboto Condensed,50,&H00FFFFFF,&H00D6D6D9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,0,0,10,1
+Style: Fluttershy English,Roboto,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Fluttershy Mandarin,思源黑体 Bold,90,&H00B5F3F5,&H00363655,&H00B27EE7,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Handwriting Mandarin,华文楷体,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,0,2,0,0,55,1
+Style: Pinkie Pie English,Roboto,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Pinkie Pie Mandarin,思源黑体 Bold,90,&H00DFC2F6,&H00363655,&H007F2CCD,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rainbow Dash English,Roboto,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rainbow Dash Mandarin,思源黑体 Bold,90,&H00FCE5AB,&H00363655,&H00BB9C52,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rarity English,Roboto,60,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rarity Mandarin,思源黑体 Bold,90,&H00F5E6E6,&H00363655,&H00AA5361,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Staff Credit,思源黑体 Regular,60,&H00FFFEFF,&H000000FF,&H00581F2D,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0,0,10,1
+Style: Sunset Shimmer English,Roboto,60,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Sunset Shimmer Mandarin,思源黑体 Bold,90,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Twilight Sparkle English,Roboto,60,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Twilight Sparkle Mandarin,思源黑体 Bold,90,&H00D399D0,&H00565E6D,&H007B3B29,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Wondercolts English,Roboto,60,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Wondercolts Mandarin,思源黑体 Bold,90,&H00F8DC51,&H0074642C,&H009E6621,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.57,0:00:17.15,Sunset Shimmer English,,0,0,0,,{\fad(200,200)}{\kf54}Some{\kf42}where's{\kf0} {\kf18}a{\kf0} {\kf44}book{\kf0}
+Dialogue: 0,0:00:17.42,0:00:23.08,Sunset Shimmer English,,0,0,0,,{\fad(200,200)}{\kf10}With{\kf2} {\kf43}chap{\kf30}ters{\kf2} {\kf28}still{\kf7} {\kf41}blank{\kf6} {\kf23}{\rChorus English}in{\kf374}side
+Dialogue: 0,0:00:23.25,0:00:24.92,Rarity English,,0,0,0,,{\fad(200,200)}{\kf10}It's{\kf1} {\kf10}the{\kf1} {\kf32}book{\kf0} {\kf30}of{\kf6} {\kf20}our{\kf57} lives
+Dialogue: 0,0:00:25.08,0:00:30.46,Rarity English,,0,0,0,,{\fad(200,200)}{\kf14}And{\kf0} {\kf5}the{\kf0} {\kf51}sto{\kf36}ry{\kf0} {\kf14}is{\kf8} {\kf42}ours{\kf0} {\kf19}{\rChorus English}to{\kf15} {\kf334}write
+Dialogue: 0,0:00:31.17,0:00:32.59,Applejack English,,0,0,0,,{\fad(200,200)}{\kf34}Some{\kf6} {\kf32}pa{\kf24}ges{\kf5} {\kf41}fade
+Dialogue: 0,0:00:32.90,0:00:38.56,Applejack English,,0,0,0,,{\fad(200,200)}{\kf21}While{\kf3} {\kf32}o{\kf41}thers{\kf0} {\kf15}are{\kf6} {\kf35}black{\kf19} {\kf23}{\rChorus English}and {\kf371}white
+Dialogue: 0,0:00:38.64,0:00:40.55,Fluttershy English,,0,0,0,,{\fad(200,200)}{\kf12}And{\kf0} {\kf7}the {\kf39}sto{\kf41}ry{\kf7} {\kf23}be{\kf62}gins
+Dialogue: 0,0:00:40.64,0:00:45.90,Fluttershy English,,0,0,0,,{\fad(200,200)}{\kf23}A{\kf39}gain{\kf0} {\kf35}e{\kf17}very{\kf5} {\kf47}time{\kf0} {\kf21}{\rChorus English}we{\kf0} {\kf339}try
+Dialogue: 0,0:00:43.29,0:00:46.06,Applejack English,,0,0,0,,{\fad(200,200)}{\kf25}E{\kf20}very{\kf4} {\kf41}time{\kf9} {\kf22}we{\kf3} {\kf153}try
+Dialogue: 0,0:00:46.35,0:00:53.82,Chorus English,,0,0,0,,{\fad(200,200)}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 0,0:00:54.15,0:01:01.54,Chorus English,,0,0,0,,{\fad(200,200)}{\kf20}And{\kf1} {\kf276}friends{\kf0} {\kf22}are{\kf0} {\kf21}all{\kf0} {\kf48}I{\kf0} {\kf351}need
+Dialogue: 0,0:01:01.87,0:01:09.04,Chorus English,,0,0,0,,{\fad(200,200)}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 0,0:01:09.43,0:01:14.09,Chorus English,,0,0,0,,{\fad(200,200)}{\kf24}And{\kf0} {\kf14}the{\kf5} {\kf21}fu{\kf34}ture{\kf0} {\kf49}is{\kf0} {\kf23}al{\kf30}ways{\kf19} {\kf247}bright
+Dialogue: 0,0:01:14.26,0:01:16.26,Chorus English,,0,0,0,,{\fad(200,200)}{\kf25}When{\kf0} {\kf28}you're{\kf0} {\kf42}here{\kf0} {\kf13}with{\kf10} {\kf82}me
+Dialogue: 0,0:01:19.31,0:01:21.28,Twilight Sparkle English,,0,0,0,,{\fad(200,200)}{\kf11}I{\kf3} {\kf41}fought{\kf0} {\kf39}through{\kf5} {\kf17}the{\kf6} {\kf46}dark{\kf29}ness
+Dialogue: 0,0:01:21.29,0:01:26.90,Twilight Sparkle English,,0,0,0,,{\fad(200,200)}{\kf23}And{\kf4} {\kf28}come{\kf4} {\kf27}out{\kf13} {\kf22}the{\kf4} {\kf42}{\rChorus English}o{\kf28}ther {\kf366}side
+Dialogue: 0,0:01:27.10,0:01:28.77,Rainbow Dash English,,0,0,0,,{\fad(200,200)}{\kf23}For{\kf2} {\kf21}rain{\kf13} {\kf27}clouds{\kf12} {\kf15}will{\kf5} {\kf49}clear
+Dialogue: 0,0:01:29.03,0:01:34.70,Rainbow Dash English,,0,0,0,,{\fad(200,200)}{\kf25}The{\kf0} {\kf26}way{\kf10} {\kf33}for{\kf7} {\kf17}the{\kf6} {\kf45}{\rChorus English}sun{\kf15}ny{\kf9} {\kf374}skies
+Dialogue: 0,0:01:35.05,0:01:36.50,Pinkie Pie English,,0,0,0,,{\fad(200,200)}{\kf36}I've{\kf9} {\kf25}been{\kf6} {\kf28}a{\kf41}fraid{\kf0}
+Dialogue: 0,0:01:36.72,0:01:42.40,Pinkie Pie English,,0,0,0,,{\fad(200,200)}{\kf15}And{\kf5} {\kf44}stayed{\kf0} {\kf32}through{\kf5} {\kf21}the{\kf0} {\kf49}lon{\kf19}gest{\kf8} {\kf370}{\rChorus English}nights
+Dialogue: 0,0:01:42.54,0:01:44.44,Pinkie Pie English,,0,0,0,,{\fad(200,200)}{\kf25}But{\kf5} {\kf36}mor{\kf21}ning{\kf10} {\kf24}still{\kf7} {\kf62}comes
+Dialogue: 0,0:01:44.52,0:01:50.16,Pinkie Pie English,,0,0,0,,{\fad(200,200)}{\kf9}And{\kf15} {\kf31}with{\kf8} {\kf32}it{\kf4}, {\kf26}it{\kf3} {\kf44}brings{\kf0} {\kf20}a{\kf6} {\kf366}light
+Dialogue: 0,0:01:50.21,0:01:57.59,Chorus English,,0,0,0,,{\fad(200,200)}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 0,0:01:58.04,0:02:05.23,Chorus English,,0,0,0,,{\fad(200,200)}{\kf20}And{\kf1} {\kf276}friends{\kf0} {\kf22}are{\kf0} {\kf21}all{\kf0} {\kf48}I{\kf0} {\kf351}need
+Dialogue: 0,0:02:05.76,0:02:13.11,Chorus English,,0,0,0,,{\fad(200,200)}{\kf26}And{\kf1} {\kf280}hope{\kf8} {\kf49}shines{\kf0} {\kf33}e{\kf50}ter{\kf300}nal
+Dialogue: 0,0:02:13.23,0:02:17.24,Chorus English,,0,0,0,,{\fad(200,200)}{\kf22}And{\kf7} {\kf25}the{\kf3} {\kf19}fu{\kf21}ture{\kf9} {\kf49}is{\kf0} {\kf22}al{\kf44}ways{\kf5} {\kf175}bright{\kf0}
+Dialogue: 0,0:02:17.40,0:02:20.82,Chorus English,,0,0,0,,{\fad(200,200)}{\kf22}The{\kf3} {\kf19}fu{\kf21}ture{\kf9} {\kf49}is{\kf0} {\kf22}al{\kf44}ways{\kf5} {\kf175}bright{\kf0}
+Dialogue: 0,0:02:20.99,0:02:25.62,Chorus English,,0,0,0,,{\fad(200,200)}{\kf24}Yeah{\kf6}, {\kf12}the{\kf2} {\kf31}fu{\kf25}ture{\kf4} {\kf37}is{\kf0} {\kf33}al{\kf50}ways{\kf1} {\kf238}bright
+Dialogue: 0,0:02:25.83,0:02:28.16,Chorus English,,0,0,0,,{\fad(200,200)}{\kf25}When{\kf0} {\kf28}you're{\kf0} {\kf42}here{\kf0} {\kf13}with{\kf10} {\kf82}me
