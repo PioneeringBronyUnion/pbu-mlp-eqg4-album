@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: Legend You are Meant to Be
+Original Script: My Little Pony Equestria Girls: Legend of Everfree (Original Motion Picture Soundtrack) - EP
+Original Timing: BronyDee
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Applejack English,Roboto,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Applejack Mandarin,思源黑体 Bold,90,&H0053B4FF,&H00363655,&H000D54E6,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Chorus English,Roboto,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Chorus Mandarin,思源黑体 Bold,90,&H0044DE4C,&H00565E6D,&H00115813,&H37000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Fluttershy English,Roboto,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Fluttershy Mandarin,思源黑体 Bold,90,&H00B5F3F5,&H00363655,&H00B27EE7,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rainbow Dash English,Roboto,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rainbow Dash Mandarin,思源黑体 Bold,90,&H00FCE5AB,&H00363655,&H00BB9C52,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Rarity English,Roboto,60,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Rarity Mandarin,思源黑体 Bold,90,&H00F5E6E6,&H00363655,&H00AA5361,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Sunset Shimmer English,Roboto,60,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Sunset Shimmer Mandarin,思源黑体 Bold,90,&H008BEFF5,&H00568996,&H003A3AE9,&H00000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+Style: Twilight Sparkle English,Roboto,60,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,-1,0,0,0,100,100,0,0,1,3,0,8,0,0,40,1
+Style: Twilight Sparkle Mandarin,思源黑体 Bold,90,&H00D399D0,&H00565E6D,&H007B3B29,&H7D000000,-1,0,0,0,100,100,0,0,1,3.5,0,2,0,0,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.82,0:00:11.95,Twilight Sparkle English,,0,0,0,,{\kf11}I{\kf8} {\kf19}used{\kf2} {\kf21}to{\kf0} {\kf36}think{\kf8} {\kf11}that{\kf2} {\kf55}sto{\kf24}ries{\kf0} {\kf8}were{\kf7} {\kf36}just{\kf7} {\kf58}that
+Dialogue: 0,0:00:12.36,0:00:15.53,Twilight Sparkle English,,0,0,0,,{\kf28}Set{\kf1} {\kf14}in{\kf2} {\kf42}stone{\kf27}, {\kf44}con{\kf43}crete{\kf0} {\kf46}as{\kf0} {\kf46}a {\kf24}fact
+Dialogue: 0,0:00:15.62,0:00:17.87,Twilight Sparkle English,,0,0,0,,{\kf18}It{\kf5} {\kf22}di{\kf19}dn't{\kf0} {\kf28}dawn{\kf3} {\kf37}on{\kf1} {\kf92}me
+Dialogue: 0,0:00:18.42,0:00:22.08,Twilight Sparkle English,,0,0,0,,{\kf22}That{\kf1} {\kf71}I{\kf15} {\kf25}could{\kf12} {\kf41}change{\kf7} {\kf44}his{\kf42}to{\kf86}ry
+Dialogue: 0,0:00:22.71,0:00:25.92,Sunset Shimmer English,,0,0,0,,{\kf25}Now{\kf0} {\kf15}I{\kf5} {\kf43}know{\kf0} {\kf15}I'm{\kf6} {\kf43}wri{\kf34}ting{\kf8} {\kf35}my{\kf10} {\kf31}own{\kf10} {\kf41}song
+Dialogue: 0,0:00:26.13,0:00:29.30,Sunset Shimmer English,,0,0,0,,{\kf18}Fight{\kf7} {\kf17}my{\kf3} {\kf16}way{\kf6} {\kf13}to{\kf9} {\kf16}the{\kf6} {\kf42}en{\kf37}ding{\kf6} {\kf42}that{\kf0} {\kf40}I{\kf0} {\kf39}want
+Dialogue: 0,0:00:29.36,0:00:31.80,Sunset Shimmer English,,0,0,0,,{\kf21}I'll{\kf0} {\kf23}turn{\kf0} {\kf18}a{\kf0} {\kf46}tra{\kf19}ge{\kf117}dy
+Dialogue: 0,0:00:32.09,0:00:35.84,Sunset Shimmer English,,0,0,0,,{\kf27}In{\kf41}to{\kf3} {\kf32}an{\kf12} {\kf41}e{\kf32}pic{\kf11} {\kf44}fan{\kf44}ta{\kf88}sy
+Dialogue: 0,0:00:35.92,0:00:38.01,Chorus English,,0,0,0,,{\kf33}Hey!{\kf37} {\kf41}Hey!{\kf23} {\kf45}Hey!{\kf30}
+Dialogue: 0,0:00:38.57,0:00:42.43,Chorus English,,0,0,0,,{\kf14}You{\kf3} {\kf24}can{\kf4} {\kf15}be{\kf0} {\kf28}a{\kf0} {\kf21}he{\kf119}ro{\kf4} {\kf154}too
+Dialogue: 0,0:00:42.81,0:00:45.19,Chorus English,,0,0,0,,{\kf69}Oh{\kf0}-{\kf64}oh{\kf0}-{\kf105}oh
+Dialogue: 0,0:00:45.31,0:00:49.52,Chorus English,,0,0,0,,{\kf24}Take{\kf7} {\kf25}my {\kf20}hand{\kf0}, {\kf15}I'm{\kf7} {\kf53}here{\kf9} {\kf60}for{\kf7} {\kf194}you
+Dialogue: 0,0:00:49.73,0:00:54.28,Chorus English,,0,0,0,,{\kf125}Come{\kf2} {\kf21}a{\kf145}way{\kf7} {\kf13}with{\kf8} {\kf134}me{\kf0}
+Dialogue: 0,0:00:54.40,0:00:57.62,Chorus English,,0,0,0,,{\kf21}Be{\kf4} {\kf18}the{\kf3} {\kf24}le{\kf20}gend{\kf3} {\kf16}you{\kf0} {\kf23}are{\kf0} {\kf40}meant{\kf0} {\kf18}to{\kf6} {\kf126}be{\kf0}
+Dialogue: 0,0:00:57.78,0:01:01.45,Chorus English,,0,0,0,,{\kf30}You'll{\kf0} {\kf150}al{\kf18}ways{\kf4} {\kf165}be{\kf0}
+Dialogue: 0,0:01:01.72,0:01:03.41,Chorus English,,0,0,0,,{\kf64}E{\kf63}ver{\kf42}free
+Dialogue: 0,0:01:03.41,0:01:07.92,Chorus English,,0,0,0,,{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf21}wah{\kf42}
+Dialogue: 0,0:01:07.93,0:01:10.28,Chorus English,,0,0,0,,{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
+Dialogue: 0,0:01:10.30,0:01:14.67,Chorus English,,0,0,0,,{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf21}wah{\kf42}
+Dialogue: 0,0:01:14.76,0:01:17.22,Chorus English,,0,0,0,,{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
+Dialogue: 0,0:01:17.34,0:01:20.76,Fluttershy English,,0,0,0,,{\kf14}There{\kf9} {\kf24}was{\kf0} {\kf18}a{\kf0} {\kf45}time{\kf0} {\kf22}when{\kf0} {\kf36}fear{\kf7} {\kf36}would{\kf7} {\kf29}hold{\kf14} {\kf28}me{\kf12} {\kf41}down
+Dialogue: 0,0:01:21.00,0:01:24.14,Fluttershy English,,0,0,0,,{\kf19}'cause{\kf4} {\kf21}I{\kf1} {\kf20}let{\kf0} {\kf27}it{\kf10} {\kf35}chain{\kf14} {\kf25}me{\kf16} {\kf29}to{\kf17} {\kf28}the{\kf10} {\kf38}ground{\kf0}
+Dialogue: 0,0:01:24.14,0:01:26.85,Rainbow Dash English,,0,0,0,,{\kf23}Look{\kf6} {\kf13}at{\kf10} {\kf15}me{\kf7} {\kf38}now{\kf0}, {\kf23}I'm {\kf41}soa{\kf26}ring {\kf69}high
+Dialogue: 0,0:01:27.16,0:01:30.57,Rainbow Dash English,,0,0,0,,{\kf19}It's{\kf8} {\kf23}ne{\kf26}ver{\kf16} {\kf41}bo{\kf37}ring{\kf9} {\kf23}in{\kf20} {\kf22}the{\kf12} {\kf85}sky
+Dialogue: 0,0:01:31.28,0:01:34.49,Applejack English,,0,0,0,,{\kf20}When{\kf5} {\kf13}I{\kf6} {\kf33}know{\kf8} {\kf18}I've{\kf5} {\kf35}got{\kf5} {\kf43}friends{\kf2} {\kf29}on{\kf15} {\kf40}my{\kf3} {\kf41}side{\kf0}
+Dialogue: 0,0:01:34.50,0:01:37.91,Applejack English,,0,0,0,,{\kf14}What{\kf30}e{\kf20}ver {\kf44}trials {\kf22}I'll {\kf41}take {\kf43}them {\kf45}all {\kf40}in {\kf42}stride
+Dialogue: 0,0:01:37.95,0:01:40.74,Rarity English,,0,0,0,,{\kf20}To{\kf23}ge{\kf17}ther{\kf4} {\kf31}we{\kf10} {\kf23}will{\kf0} {\kf35}shine{\kf5} {\kf23}so{\kf0} {\kf88}bright
+Dialogue: 0,0:01:41.19,0:01:44.20,Rarity English,,0,0,0,,{\kf19}Ra{\kf35}diant{\kf7} {\kf40}bril{\kf36}liance{\kf10} {\kf34}in{\kf9} {\kf29}the{\kf17} {\kf65}night
+Dialogue: 0,0:01:44.54,0:01:46.37,Chorus English,,0,0,0,,{\kf33}Hey!{\kf37} {\kf41}Hey!{\kf23} {\kf45}Hey!{\kf30}
+Dialogue: 0,0:01:47.15,0:01:51.09,Chorus English,,0,0,0,,{\kf14}You{\kf3} {\kf24}can{\kf4} {\kf15}be{\kf0} {\kf28}a{\kf0} {\kf21}he{\kf119}ro{\kf4} {\kf154}too
+Dialogue: 0,0:01:51.38,0:01:53.55,Chorus English,,0,0,0,,{\kf69}Oh{\kf0}-{\kf64}oh{\kf0}-{\kf105}oh
+Dialogue: 0,0:01:53.92,0:01:58.05,Chorus English,,0,0,0,,{\kf24}Take{\kf7} {\kf25}my {\kf20}hand{\kf0}, {\kf15}I'm{\kf7} {\kf53}here{\kf9} {\kf60}for{\kf7} {\kf194}you
+Dialogue: 0,0:01:58.26,0:02:02.89,Chorus English,,0,0,0,,{\kf125}Come{\kf2} {\kf21}a{\kf145}way{\kf7} {\kf13}with{\kf8} {\kf134}me{\kf0}
+Dialogue: 0,0:02:02.97,0:02:06.06,Chorus English,,0,0,0,,{\kf21}Be{\kf4} {\kf18}the{\kf3} {\kf24}le{\kf20}gend{\kf3} {\kf16}you{\kf0} {\kf23}are{\kf0} {\kf40}meant{\kf0} {\kf18}to{\kf6} {\kf126}be{\kf0}
+Dialogue: 0,0:02:06.43,0:02:09.94,Chorus English,,0,0,0,,{\kf20}You'll{\kf0} {\kf150}al{\kf18}ways{\kf4} {\kf165}be{\kf0}
+Dialogue: 0,0:02:10.27,0:02:11.81,Chorus English,,0,0,0,,{\kf64}E{\kf63}ver{\kf42}free
+Dialogue: 0,0:02:11.98,0:02:16.28,Chorus English,,0,0,0,,{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf63}wah{\kf0}
+Dialogue: 0,0:02:16.49,0:02:18.86,Chorus English,,0,0,0,,{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
+Dialogue: 0,0:02:18.86,0:02:23.12,Chorus English,,0,0,0,,{\kf25}Oh{\kf0}, {\kf20}oo{\kf0}-{\kf24}wah{\kf37}, {\kf46}ah{\kf0}-{\kf43}oh{\kf0}, {\kf22}oo{\kf0}-{\kf22}wah{\kf40}, {\kf48}ah{\kf0}-{\kf34}oh{\kf0}, {\kf27}oo{\kf0}-{\kf63}wah{\kf0}
+Dialogue: 0,0:02:23.37,0:02:26.00,Chorus English,,0,0,0,,{\kf13}To{\kf9} {\kf17}be{\kf4} {\kf16}the{\kf3} {\kf22}le{\kf22}gend{\kf2} {\kf15}you{\kf2} {\kf22}are{\kf3} {\kf42}meant{\kf0} {\kf22}to{\kf1} {\kf20}be
